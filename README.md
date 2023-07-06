@@ -1,2 +1,2 @@
 # Tic_toc_teo
-It is game that unterstand basic of javascript
+"Tic Tac Toe game implemented using JavaScript. Experience the classic game of strategy and challenge your friends or test your skills against the computer. This interactive web application is built with HTML, CSS, and JavaScript, providing a seamless and intuitive user interface. The game logic is implemented using JavaScript to handle player moves, track the progress of the game, and determine the winner. Sharpen your problem-solving skills while enjoying the excitement of this timeless game. Let's play some Tic Tac Toe and see who will emerge victorious!"
